@@ -98,4 +98,4 @@ The API is then available at `http://localhost:5000` (or your `PORT`).
 
 ---
 
-Author: Muhammad Usman — [LinkedIn](https://www.linkedin.com/in/muhammad-usman-the-dev) · [Portfolio](https://portfolio-usman-46c4.vercel.app)
+Author: Muhammad Usman — [LinkedIn](https://www.linkedin.com/in/muhammad-usman-the-dev) · [Portfolio](https://muhammad-usman-engineer.vercel.app)
